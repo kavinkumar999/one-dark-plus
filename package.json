@@ -1,9 +1,9 @@
 {
   "name": "one-dark-custom-theme",
   "publisher": "kavinkumar",
-  "displayName": "One Dark Plus",
+  "displayName": "One Dark Plus+ Theme",
   "description": "Customized version of one dark theme",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "engines": {
     "vscode": "^1.93.0"
   },

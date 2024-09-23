@@ -1,6 +1,6 @@
-# One Dark Theme
+# One Dark Plus Theme
 
-![One Dark](./images/icon.png)
+![One Dark](https://github.com/kavinkumar999/one-dark-theme/blob/main/images/icon.png?raw=true)
 
 ## Description
 
