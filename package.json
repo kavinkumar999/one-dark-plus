@@ -6,13 +6,18 @@
   "engines": {
     "vscode": "^1.93.0"
   },
+  "icon": "images/icon.png",
   "categories": [
     "Themes"
+  ],
+  "keywords": [
+    "one Dark", 
+    "one Pro Dark"
   ],
   "contributes": {
     "themes": [
       {
-        "label": "kavin.kumar",
+        "label": "One dark Customized",
         "uiTheme": "vs-dark",
         "path": "./themes/one-dark-color-theme.json"
       }
