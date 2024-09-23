@@ -1,0 +1,21 @@
+{
+  "name": "one-dark-custom-theme",
+  "displayName": "one dark custom theme",
+  "description": "Customized version of one dark theme",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.93.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "kavin.kumar",
+        "uiTheme": "vs-dark",
+        "path": "./themes/kavin.kumar-color-theme.json"
+      }
+    ]
+  }
+}
