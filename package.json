@@ -1,7 +1,7 @@
 {
   "name": "one-dark-custom-theme",
   "publisher": "kavinkumar",
-  "displayName": "One Dark Custom Theme",
+  "displayName": "One Dark Plus",
   "description": "Customized version of one dark theme",
   "version": "0.0.1",
   "engines": {
@@ -18,7 +18,7 @@
   "contributes": {
     "themes": [
       {
-        "label": "One dark Customized",
+        "label": "One Dark Plus",
         "uiTheme": "vs-dark",
         "path": "./themes/one-dark-color-theme.json"
       }

@@ -23,12 +23,12 @@ You can install the One Dark theme directly from the Visual Studio Code Marketpl
 
 1. Open VSCode.
 2. Go to the Extensions view by clicking on the Extensions icon in the Activity Bar on the side or pressing `Ctrl+Shift+X`.
-3. Search for "One Dark Custom Theme" and click on the Install button.
-4. Once installed, go to the Command Palette (`Ctrl+Shift+P`), type "Color Theme", and select "One Dark Customized" from the list.
+3. Search for "One Dark Plus" and click on the Install button.
+4. Once installed, go to the Command Palette (`Ctrl+Shift+P`), type "Color Theme", and select "One Dark Plus" from the list.
 
 ## Customization
 
 You can further customize your theme settings in the `settings.json` file:
 
 ```json
-"workbench.colorTheme": "One Dark"
+"workbench.colorTheme": "One Dark Plus"
