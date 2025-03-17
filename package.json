@@ -2,8 +2,8 @@
   "name": "one-dark-custom-theme",
   "publisher": "kavinkumar",
   "displayName": "One Dark Plus+ Theme",
-  "description": "Customized version of one dark theme",
-  "version": "0.0.3",
+  "description": "An elegant and intuitive One Dark theme with improved syntax highlighting, beautiful UI, and custom font support",
+  "version": "0.0.4",
   "engines": {
     "vscode": ">=1.60.0"
   },
@@ -13,7 +13,9 @@
   ],
   "keywords": [
     "one Dark", 
-    "one Pro Dark"
+    "one Pro Dark",
+    "elegant",
+    "atom"
   ],
   "contributes": {
     "themes": [
@@ -23,5 +25,13 @@
         "path": "./themes/one-dark-color-theme.json"
       }
     ]
-  }
+  },
+  "extensionDependencies": [],
+  "extensionPack": [],
+  "recommendations": [
+    "pkief.material-icon-theme",
+    "coenraads.bracket-pair-colorizer-2",
+    "aaron-bond.better-comments",
+    "eamodio.gitlens"
+  ]
 }
